@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Saleem Khan 👋
 
-<!--
-**saleem786khan/saleem786khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## AI Solutions Architect | Forward Deployed Engineer | Enterprise Architect
 
-Here are some ideas to get you started:
+I build enterprise software and AI-powered solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+- Agentic AI
+- RAG Systems
+- Enterprise Architecture
+- AI Test Automation
+- Cloud Native Applications
+
+### Tech Stack
+
+- Java
+- Spring Boot
+- Python
+- React
+- AWS
+- Azure
+- Kafka
+- Redis
+- Elasticsearch
+
+### Connect
+
+- LinkedIn: https://linkedin.com/in/saleem-khan-36b75271
+- Email: 786khan1saleem@gmail.com
